@@ -15,7 +15,8 @@ Gracias a mis habilidades en desarrollo, gestión de bases de datos y seguridad 
 
 <div align="center">
   <img width="100%" src="./img/code.png" />
-  <img src="./img/img.gif" width="400px" />
+  <br><br>
+  <img src="./img/img.gif" width="250px" />
 </div>
 
 
